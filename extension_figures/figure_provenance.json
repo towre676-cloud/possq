@@ -1,0 +1,19 @@
+{
+  "schema": "nonagon.possq.figures.v1",
+  "generator": "build_advance_figures.py",
+  "sources": {
+    "possq-0.4.0/results/resolvent_campaign.json": "1c62a2025bb395d424a5180d3854b6ff60686ad4a6695071461ce47be6f05e4f",
+    "possq-0.4.0/results/frontier_cycle.json": "af966c9e2bb23894941a1842d822617a0a1c6452dc1e3c92a976805535d64ed1",
+    "possq-0.4.0/results/frontier_star.json": "bc8280fa9952a5f9cc996ac71a74c5ec37bf3f28ab6d63931879756772c27256",
+    "possq-0.4.0/results/frontier_horizons_cycle.json": "7a49b813a83e38bb1995018ea0f4184139face8f1f46dca51946b5b5b06b63ec",
+    "possq-0.4.0/results/frontier_horizons_star.json": "f9cb926b48010603b451e53b98fadbb98f5d664ff3a0d75bd4b0a1b58e4e605b",
+    "possq-0.4.0/results/cyclecraft_ledger_cycle.json": "2465bac96fc70416b06ca96a995bcc0edae851a60d473a4a8ffefcc7fa850705",
+    "r2k_nonagon_v14.1/part_XIV/portloop14_case118.json": "07d563605805a4c016a4064298b1d4b5af807f612a7a8496f6b590c8bc1e6e21",
+    "r2k_nonagon_v14.1/part_XIV/rational_access/rational_case118_pocket6.json": "397806958ed46009bb5d4807360e592863a09abfc91ff82680f022109c570ca8",
+    "r2k_nonagon_v14.1/part_XIV/rational_access/rational_case118_hw20.json": "83c9313328a936462b490a94196851f9659a24455382a98a5ac6e16861e9c089",
+    "r2k_nonagon_v14.1/part_XIV/two_strength_cert_results.json": "8747f7859ff70a6a17342116c3957f60a027a33b20f7e4056748038a698df31e",
+    "r2k_nonagon_v14.1/part_XIV/two_strength_design_results.json": "02b194e131107a195eb31913b9c9bffa18a3eee8fa8321ccd7de889d51bb3648",
+    "r2k_nonagon_v14.1/part_XIV/two_strength_raw_design_results.json": "3316f01c81f0d850be91d573aaaca6faeec20c8b20852803fb68c9cf11983a68"
+  },
+  "display": "Binary64 projections of retained rational/dyadic endpoints; scores use their retained display values."
+}

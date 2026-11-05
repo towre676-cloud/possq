@@ -1,0 +1,120 @@
+{
+ "cycle": [
+  {
+   "quantity": "E z^N, z=1/2",
+   "ours": 0.09194876324498542,
+   "cyclecraft": 0.09194876324498542,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "E z^N, z=2/3",
+   "ours": 0.20475361581724646,
+   "cyclecraft": 0.20475361581724652,
+   "rel_diff": 2.711119459829441e-16
+  },
+  {
+   "quantity": "E z^N, z=3/4",
+   "ours": 0.30699339360194716,
+   "cyclecraft": 0.30699339360194716,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "E z^N, z=7/8",
+   "ours": 0.558718651259004,
+   "cyclecraft": 0.558718651259004,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "mean",
+   "ours": 4.580178693334902,
+   "cyclecraft": 4.580178693334902,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "variance",
+   "ours": 3.3084672307340313,
+   "cyclecraft": 3.3084672307340313,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "P(N<=0) vs binary64 oracle",
+   "ours": 0.01092271816412092,
+   "cyclecraft": 0.010922718164120899,
+   "rel_diff": 1.905815145913095e-15
+  }
+ ],
+ "star": [
+  {
+   "quantity": "E z^N, z=1/2",
+   "ours": 0.08767576263571959,
+   "cyclecraft": 0.08767576263571959,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "E z^N, z=2/3",
+   "ours": 0.19870488636301384,
+   "cyclecraft": 0.19870488636301387,
+   "rel_diff": 1.3968240098999009e-16
+  },
+  {
+   "quantity": "E z^N, z=3/4",
+   "ours": 0.30053184745489886,
+   "cyclecraft": 0.30053184745489886,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "E z^N, z=7/8",
+   "ours": 0.5533618893887509,
+   "cyclecraft": 0.5533618893887509,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "mean",
+   "ours": 4.649268427907334,
+   "cyclecraft": 4.649268427907334,
+   "rel_diff": 0.0
+  },
+  {
+   "quantity": "variance",
+   "ours": 3.253025212811796,
+   "cyclecraft": 3.2530252128117927,
+   "rel_diff": 9.55610321342532e-16
+  },
+  {
+   "quantity": "P(N<=0) vs binary64 oracle",
+   "ours": 0.010199324410823413,
+   "cyclecraft": 0.010199324410823383,
+   "rel_diff": 2.891397302777331e-15
+  }
+ ],
+ "cycle_aux": [
+  {
+   "quantity": "aux variance",
+   "ours": 3.827699992085032,
+   "cyclecraft": 3.827699992085032,
+   "rel_diff": 0.0
+  }
+ ],
+ "shortcut": [
+  {
+   "eps": "1/1024",
+   "any_jump_cyclecraft": 0.02236068401525039,
+   "net_nonzero_ours": 0.02221236806707122,
+   "consistent": true
+  },
+  {
+   "eps": "1/256",
+   "any_jump_cyclecraft": 0.0862441953985494,
+   "net_nonzero_ours": 0.08404718833655035,
+   "consistent": true
+  },
+  {
+   "eps": "1/64",
+   "any_jump_cyclecraft": 0.2999074755483133,
+   "net_nonzero_ours": 0.27377538521647055,
+   "consistent": true
+  }
+ ],
+ "max_rel_diff": 2.891397302777331e-15,
+ "shortcut_consistent": true
+}

@@ -1,0 +1,27 @@
+{
+  "verdict": "PASS",
+  "python": "3.12.14",
+  "spectral_certificates": 96,
+  "rational_atomic_witnesses": 96,
+  "exact_copy_thresholds": {
+    "cycle": {
+      "1e-12": 8,
+      "1e-30": 21,
+      "1e-60": 42,
+      "1e-100": 70
+    },
+    "star": {
+      "1e-12": 8,
+      "1e-30": 21,
+      "1e-60": 42,
+      "1e-100": 70
+    }
+  },
+  "source_sha256": {
+    "possq/resolvent.py": "fe74ab9396c03bd784dd867829d8971a645547c97e3437952f32bf03669f6c45",
+    "possq/resolvent_design.py": "6fda2d173b75b6131f443976f2a7cd39e308d1f1967f7de1aea855f31c77eeea",
+    "possq/resolvent_campaign.py": "0b8968733c3281c709c0f95aed10384d54a9910d29595213ae5aaeb96a1886ee",
+    "possq/cyclecraft_frontier.py": "db46ffd5d884d207347855a303d08ebef4c077f9dfc812ca98b27e887c0187f4"
+  },
+  "seconds": 35.773885538001196
+}

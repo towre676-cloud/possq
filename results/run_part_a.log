@@ -1,0 +1,9 @@
+E1_exact_theorem passed= True 0.0 s
+E2_separation_lemma passed= True 0.01 s
+E3_noise_scaling passed= True 13.42 s
+E4_hidden_atom passed= True 14.34 s
+E5_cluster_enclosures passed= True 28.88 s
+E7_measurement_selection passed= True 9.93 s
+E8_soundness_campaign passed= True 38.39 s
+E9_basis_comparison passed= True 3.47 s
+ALL PASSED: True

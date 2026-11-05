@@ -1,0 +1,613 @@
+{
+  "schema": "recovered-research-source-import-v1",
+  "repository": "possq",
+  "source_archives": [
+    {
+      "name": "possq-0.4.0.zip",
+      "sha256": "39c940c6a95c182bfd4b283e0094405f243f137460dfc22118e4cd745e2b3300",
+      "bytes": 2005181,
+      "destination": ".",
+      "library_file_id": "libfile_d63bcb0fde8881919e6a035db6d84eff",
+      "url": "https://chatgpt.com/library?file_id=libfile_d63bcb0fde8881919e6a035db6d84eff&account_id=personal"
+    }
+  ],
+  "files": [
+    {
+      "path": "CYCLECRAFT_FRONTIER.md",
+      "sha256": "f266cbf4a2fca1872837072f9fee4f597ced45807804c2dcfb6292d52840a0d2",
+      "bytes": 5992,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "Certified_Disclosure.html",
+      "sha256": "dedf51fb1449cf5ccc3be567e60afe40fd62ab803ecca0f832ec301a0c393398",
+      "bytes": 553606,
+      "archive": "possq-0.4.0.zip",
+      "storage": "gzip",
+      "stored_path": "_evidence/dedf51fb1449cf5ccc3be567e60afe40fd62ab803ecca0f832ec301a0c393398.gz"
+    },
+    {
+      "path": "MANIFEST_EXTENSION.json",
+      "sha256": "dfa0faa3224330d18acafc596b3c77a0ad6330a2960c2fe4c80ad61e50098829",
+      "bytes": 13838,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "README.md",
+      "sha256": "67c30349f4e6503c7e5ab7b7ce2fbd1e3057d4200611617017aa4c7b8f6bc4b3",
+      "bytes": 6868,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "RESOLVENT_BRIDGE.md",
+      "sha256": "eebe6d99f9dbb7760b73ba89c6c1ac1ca85d6a7f476c7c13f95a3bbabbe2434d",
+      "bytes": 2752,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "build_cyclecraft_exact_note.py",
+      "sha256": "d9eb1d206407ed8fa5b068a0e0bb1b6914e20a5c1347b7ae78285abd81c3b504",
+      "bytes": 21927,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "build_cyclecraft_note.py",
+      "sha256": "8b05a9155cca2a769cb152f882b8222520f1db009749baa52a83a0174bbd16c9",
+      "bytes": 17215,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "build_monograph.py",
+      "sha256": "a75b1d8857d66b7ce4d4b933496b53d9f82509a235534109097c838ab33ceca6",
+      "bytes": 27796,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "cyclecraft_exact.html",
+      "sha256": "5f3db31f5d151e329bc41795ac9092e64f7ece0e470f0e4475a39b59affb98b4",
+      "bytes": 132179,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "cyclecraft_tails.html",
+      "sha256": "17fd2c6055e502c11e4e6c9b37e86e1e171ba20e7f3ef93a34d564a722ece4d0",
+      "bytes": 93331,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/CAPTIONS.md",
+      "sha256": "fe6aead59014a663ead990f99c83e244677b45e368bf2570177e45d8213aeb26",
+      "bytes": 4351,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/access_design.pdf",
+      "sha256": "84a7552ade3d1c3648c342a2efdccc37d842f639e49d4aa35542839cea7e3d5f",
+      "bytes": 23853,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/access_design.png",
+      "sha256": "4ea57559a6634aabb9608109f6f3266498400c9dd641f84f1ef468b08c28519d",
+      "bytes": 150768,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/access_design.svg",
+      "sha256": "81a4e0c6c5c8c0d411ff7bbe7527a478387ca46714b095e5859e719d294a2955",
+      "bytes": 15984,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/captions.json",
+      "sha256": "1813a552daa23282f6d2117bb55ea3c8b0445be4a599f654cc02bc5d7e4a9a59",
+      "bytes": 4377,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/counting_frontier.pdf",
+      "sha256": "21cfb68f775cc6797aecf09d53715ca6cb39ea6e06129a46de8f2aa8307e21b4",
+      "bytes": 26990,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/counting_frontier.png",
+      "sha256": "a98d7cb9da00fee881b0eaef59b27a429a09781511ef968f249c2dd47adf8a0c",
+      "bytes": 253011,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/counting_frontier.svg",
+      "sha256": "12be4ac21482fe13da8cc4dc8155b8c3b1989f4895b0c92781eecc2a79721b83",
+      "bytes": 34647,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/figure_provenance.json",
+      "sha256": "53ce157be357146108e9bf9ed6fbc7ddf0768c4c1bad32d7bc80d712f340d494",
+      "bytes": 1767,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/raw_cancellation.pdf",
+      "sha256": "79a11d90a47d4135f6647a35f17523020e013364226fdd0f833c3413828fa2f2",
+      "bytes": 25515,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/raw_cancellation.png",
+      "sha256": "097591db03f096d5773038c07605063d9011bb1920582635c3cdc2ab27aef061",
+      "bytes": 211096,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/raw_cancellation.svg",
+      "sha256": "b58c9916e78b804ab5ec60251f6438ff00b20dfee40e4a6163f7d5e00d7ae6ee",
+      "bytes": 87217,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_disclosure.pdf",
+      "sha256": "3542e4a72f67f585f694d8072f2b9ed4ded8082895394eebd2a0f2097f11bdcc",
+      "bytes": 31386,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_disclosure.png",
+      "sha256": "f39fb32c3b0d3f1db1817486c18168de7016b58c9a1496cb5c7470454e77c125",
+      "bytes": 266045,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_disclosure.svg",
+      "sha256": "a8cb0601943973abf614cc3c6f47652a2f0f1f07ad5bbe65c73ea013d17250d5",
+      "bytes": 65739,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_witnesses.pdf",
+      "sha256": "f63259f54bdbd786c16a80b58b8fe36b4140912dc4900069af002a6d0a23a07d",
+      "bytes": 27674,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_witnesses.png",
+      "sha256": "cdc382790efab31f04f45c19ef7fddb2da16e02eff23c1bc9723ef13bb1b8ffe",
+      "bytes": 183672,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/spectral_witnesses.svg",
+      "sha256": "3a401f84051ae061e957454879c0792ae403a5f8fd1504ecebe5cc5bc5f9af70",
+      "bytes": 48495,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_intervals.pdf",
+      "sha256": "588018ccef7e54099355b95cfb8145b0b28568a4c30ebf13904756511c3b5d5b",
+      "bytes": 25610,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_intervals.png",
+      "sha256": "0a9b0decde182b33cfb50c776b601c4d590bb6efada35ed3572947bb2001773e",
+      "bytes": 193429,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_intervals.svg",
+      "sha256": "5e4b674f9679a96fb05ec1682185c52ded02082904d65c71b0922f0da35d683f",
+      "bytes": 64339,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_strengths.pdf",
+      "sha256": "91c91b809312c34a602ea5c32de63275f9ec71db4dd78d68af9f6c6c6b722da2",
+      "bytes": 4495,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_strengths.png",
+      "sha256": "50d4cf128583b258fe75ae4ef12318339252ec40b6b7350c000906685dd24156",
+      "bytes": 135881,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "extension_figures/two_strength_strengths.svg",
+      "sha256": "51a37c9664ac13548ce3dc1532d21611bd86d7e60b486c82afed3b899e8b4c5a",
+      "bytes": 67242,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "monograph.html",
+      "sha256": "010c11a68835847df5c55ae9f06c7094e18b5a83881993535783c7dd6b2a0450",
+      "bytes": 245017,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/__init__.py",
+      "sha256": "3956d72b2d182438926a64e8194207ff8ab15f343f1c2731dd20043b5647246f",
+      "bytes": 757,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/bounds.py",
+      "sha256": "62a099870236d8c77585ba2b699519706f5d475082a4e93b61ecff54877be879",
+      "bytes": 12416,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft.py",
+      "sha256": "a183d951c95d066488e148e55f7f2b32f0e8f59993fc8b113f139294bde2e2ed",
+      "bytes": 8527,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft_crosscheck.py",
+      "sha256": "26dc15a07c79289871741e532a0c822256fbf7ae4cdcab2f21f26f10a9af36e1",
+      "bytes": 3332,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft_exact.py",
+      "sha256": "ff8a160ad293175bfa8d1d724f077a576d73dc3b0e5440953c2e03b59a2e4550",
+      "bytes": 8360,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft_exact_ledger.py",
+      "sha256": "a82095f49a6a00ee3be706bafe3155c28a259581118e547d733d8478fe1628f0",
+      "bytes": 4718,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft_frontier.py",
+      "sha256": "db46ffd5d884d207347855a303d08ebef4c077f9dfc812ca98b27e887c0187f4",
+      "bytes": 18154,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/cyclecraft_tails.py",
+      "sha256": "e7044f7a7cc35d8323347bde65fc4bc1cb041153d403c5710f1208b0ee79d2a1",
+      "bytes": 5690,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/exact.py",
+      "sha256": "c44b4e1baf77f6b40fe2d50603c9b31308e4b934a34fdaa9d2bd4e785b137479",
+      "bytes": 9633,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/experiments.py",
+      "sha256": "bf71145aa1eedaaea4a9dc50490cce394c6ad47de8a3e9523b45804cc648c863",
+      "bytes": 10749,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/figures.py",
+      "sha256": "b51f7a9a8d711eb5af9b72fe8e2844287eee7d5ceffacf74e045a7bf8add3bfd",
+      "bytes": 3678,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/integer.py",
+      "sha256": "30cc32ab8d2cfe06c380c3e5ee6ef5aea4be5f2d9dfe9a8ec3b1037910477801",
+      "bytes": 21699,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/recover.py",
+      "sha256": "8a013d2852afd4fdd0cf403d65fc56ab8411a3c7558988fd1660077cf16549b6",
+      "bytes": 5097,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/resolvent.py",
+      "sha256": "fe74ab9396c03bd784dd867829d8971a645547c97e3437952f32bf03669f6c45",
+      "bytes": 21064,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/resolvent_campaign.py",
+      "sha256": "0b8968733c3281c709c0f95aed10384d54a9910d29595213ae5aaeb96a1886ee",
+      "bytes": 9308,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "possq/resolvent_design.py",
+      "sha256": "6fda2d173b75b6131f443976f2a7cd39e308d1f1967f7de1aea855f31c77eeea",
+      "bytes": 3091,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "replay_extension.py",
+      "sha256": "4fb46c429c5401d0742133c3b408d58f6066a906af09f7e0a9ffb7fc31e8ddf2",
+      "bytes": 3558,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "eebe08155667796531b8ffb3d4b26fcfcdbcef7571fb5bd719b55b1c81fa3de7",
+      "bytes": 94,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/cc_cycle.log",
+      "sha256": "6c1150bbfbfb39ec9605974cf095a47f0d73d36e077032580ca6530a1ef71d00",
+      "bytes": 125,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/cc_star.log",
+      "sha256": "f98740e26437af8a5c869028578d8f813ef4d015465a32280a6badced9969128",
+      "bytes": 127,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/cyclecraft_ledger_cycle.json",
+      "sha256": "2465bac96fc70416b06ca96a995bcc0edae851a60d473a4a8ffefcc7fa850705",
+      "bytes": 10829,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/cyclecraft_ledger_star.json",
+      "sha256": "9762310ab1a6d8e17d1f4ae2f8a8abaf0a61f92203ed950769a03780a787d161",
+      "bytes": 10803,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/cyclecraft_precision_cert_results.json",
+      "sha256": "3b81411472ccc17b5cb93865b89ac7fa1f0937419678c93116356708ce839c8c",
+      "bytes": 57741,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/ex1.log",
+      "sha256": "f1726efb314dff1517585b8863b7513618317f5166c0aeb723bbe272829aa768",
+      "bytes": 20,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/ex2.log",
+      "sha256": "bbf800bd302725dd8a915baee790a29eadf8af1ed5e2f0ebb989c31f0aba1dd5",
+      "bytes": 24,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/exact_crosscheck.json",
+      "sha256": "f8b7887553d722c01de4e3e71c5b28e0cdc6eec8c7dda5e857506e8f878bf787",
+      "bytes": 2568,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/exact_cycle_aux.json",
+      "sha256": "582aae0cac6140b34c5f4f7ade7b1baf14721dd08ca0d5ed51f5a65c47dcf0e6",
+      "bytes": 23465,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/exact_star_shortcut.json",
+      "sha256": "6881f412e0b48792dc4fadf7e85b9c439d2aec67425b05ab004e49e1943cafd6",
+      "bytes": 20864,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/extension_replay_receipt.json",
+      "sha256": "de401d4710e53d3a815e27bf7be55d246d3b0dfa76da5668e9d8d31e54496e75",
+      "bytes": 798,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_certificates.svg",
+      "sha256": "bd67c9de8a5c8adde4d677f75202583a6a13fd67828f0b9a4649f8fad50eface",
+      "bytes": 46689,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_cyclecraft_tails.svg",
+      "sha256": "b7daf4addcd5ce8f0f14e6228d30444360024a2de46b1d0dcc0cbc5f4eda607e",
+      "bytes": 77864,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_exact_law_horizon.svg",
+      "sha256": "8b70237338bd8ec94a1fe4ed35754d57533b60cc4f251db6703201e320d9ba2e",
+      "bytes": 69342,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_exact_vs_published.svg",
+      "sha256": "96f46cad7d81a8307531f7b803fc7d83f925ca4135bd4754bcf6d642aca1ddcc",
+      "bytes": 45042,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_presence.svg",
+      "sha256": "0d5441e2fee00a717d38d5ff5a52f5991db73d7b5daf21222cadaf60aecddf1f",
+      "bytes": 70920,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/fig_scaling.svg",
+      "sha256": "237dec520ba9c619ff9a055da52e86f32ea7ee9f3262e1671110b53185ba8e50",
+      "bytes": 99765,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/frontier_cycle.json",
+      "sha256": "af966c9e2bb23894941a1842d822617a0a1c6452dc1e3c92a976805535d64ed1",
+      "bytes": 90101,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/frontier_horizons_cycle.json",
+      "sha256": "7a49b813a83e38bb1995018ea0f4184139face8f1f46dca51946b5b5b06b63ec",
+      "bytes": 13984,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/frontier_horizons_star.json",
+      "sha256": "f9cb926b48010603b451e53b98fadbb98f5d664ff3a0d75bd4b0a1b58e4e605b",
+      "bytes": 13997,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/frontier_star.json",
+      "sha256": "bc8280fa9952a5f9cc996ac71a74c5ec37bf3f28ab6d63931879756772c27256",
+      "bytes": 90118,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/ledger.json",
+      "sha256": "904c9df8c8ac84447706c2fc0dfb2ac613aa19f62cfc70df46ebd16e906f1124",
+      "bytes": 15296,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/resolvent_campaign.json",
+      "sha256": "1c62a2025bb395d424a5180d3854b6ff60686ad4a6695071461ce47be6f05e4f",
+      "bytes": 374022,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/run_part_a.log",
+      "sha256": "3c2f39368d92f59bc697a0303cfa173e7d581a14c3c49c39b4570a258cda992a",
+      "bytes": 338,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "results/run_part_b.log",
+      "sha256": "25fef0622f77335fb17e4a27241027372e62aa5a1e713a8c79f3a43da7e90a89",
+      "bytes": 57,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_cyclecraft_exact.py",
+      "sha256": "736e2466639bade8dbb01a4e9d6f328bd20892c4fea11d2fc3fdf53b33715544",
+      "bytes": 1360,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_cyclecraft_frontier.py",
+      "sha256": "0d2d166fc44d93d6b4e4ad3756a07c0bd893c0a6bfe2d57e277c8a87d9f13efb",
+      "bytes": 2630,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_integer.py",
+      "sha256": "efc05a5a45df02551a96040c1bc84c35ef85dcac69faaa0ac1525d93805136d0",
+      "bytes": 2289,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_possq.py",
+      "sha256": "5a9ef80b1b886a6c963070305d1c3f2b90967e5d0c7d73298293b6abdb5dc045",
+      "bytes": 3176,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_resolvent.py",
+      "sha256": "840a50c632ddaae4850b334e3a66de96056cd68a918342ae618f80e49215b951",
+      "bytes": 6990,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "tests/test_resolvent_design.py",
+      "sha256": "e438fdb4a1341e02739b100632ace880861f80b5f11050e6afd7943bcd71e595",
+      "bytes": 1222,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    },
+    {
+      "path": "the_sandwich_trick.html",
+      "sha256": "a70db3e8c09ba0502aa38ae3800df81e0487de32c994c5e97f15a9b4054d94af",
+      "bytes": 28482,
+      "archive": "possq-0.4.0.zip",
+      "storage": "direct"
+    }
+  ],
+  "fresh_replay": "See FRESH_VALIDATION.json; historical receipts are retained separately."
+}
